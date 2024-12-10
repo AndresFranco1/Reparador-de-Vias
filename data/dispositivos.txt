@@ -1,0 +1,18 @@
+E:\filserver\HolistorW\HOLISTORW SOCIEDADES\USUARIOX\HolistorW\whdata\archivo1.dbf
+E:\filserver\HolistorW\HOLISTORW SUELDOS\ETORREANO\HolistorW\whdatos\archivo_tmp.tmp
+E:\FILESERVER\HolistorW\HOLISTORW SUELDOS\USUARIOY\HolistorW\Whapp\appdata.log
+E:\filserver\HolistorW\HOLISTORW SOCIEDADES\REMOTOS\HolistorW\whsoc\config.cfg
+E:\FILESERVER\HolistorW\HOLISTORW SOCIEDADES\ANALISTA\HolistorW\WHDATOS\REMONDA\informe123.docx
+E:\filserver\HolistorW\HOLISTORW SUELDOS\ETORREANO\HolistorW\Whapp\applog.exe
+E:\filserver\OtroSistema\Archivos\usuario2\proyecto_final.pdf
+E:\FILESERVER\HolistorW\HOLISTORW SOCIEDADES\HOLISTORW\WHDATOS\CLIENTEX\REPORTE.dbf
+E:\filserver\HolistorW\HOLISTORW SOCIEDADES\REMONDA\HolistorW\backup\datos_2024.sql
+E:\filserver\HolistorW\HOLISTORW SUELDOS\ADMIN\HolistorW\archtemp.tmp
+E:\FILESERVER\HolistorW\HOLISTORW SOCIEDADES\HOLISTORW\CONFIGURACION\settings.ini
+E:\filserver\HolistorW\HOLISTORW SUELDOS\USUARIOZ\HolistorW\temp\output.log
+E:\FILESERVER\OtroSistema\Archivos\usuario3\notas_trabajo.doc
+E:\filserver\HolistorW\HOLISTORW SOCIEDADES\HOLISTORW\CLIENTE123\datos_generales.csv
+E:\filserver\HolistorW\HOLISTORW SUELDOS\ETORREANO\HolistorW\report\monthly_report.docx
+E:\FILESERVER\HolistorW\HOLISTORW SOCIEDADES\HOLISTORW\WHDATOS\REMOTA\IVCONOGR.DBF
+E:\filserver\HolistorW\HOLISTORW SOCIEDADES\CONSULTOR\HolistorW\WHDATOS\REMONDA\REPORTEFIN.xlsx
+E:\filserver\HolistorW\HOLISTORW SUELDOS\ASISTENTE\HolistorW\whapp\applog2.log
